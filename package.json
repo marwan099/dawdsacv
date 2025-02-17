@@ -1,0 +1,20 @@
+{
+  "name": "discord-clan-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for managing clan groups",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs-extra": "^11.2.0",
+    "path": "^0.12.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}

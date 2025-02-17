@@ -1,0 +1,17 @@
+{
+    "categoryId": "1337544701984641207",
+    "infoChannelId": null,
+    "token": "MTA4ODM4MzQzODY5ODA2MTg4NQ.GYL7q-.d0xRxFGOI_ot2H4d7UfzPBDQjD5Xy0_2ImSLSk",
+    "prefix": "#",
+
+    "guildId": "1064445381313835076",
+    "adminRoleId": "1133883542405927032",
+    "streamerRoleId": "1337685865375207495",
+    "defaultSettings": {
+        "maxMembers": 30,
+        "minMembers": 5,
+        "minLevel": 1,
+        "maxGroups": 10
+    },
+    "CLIENT_ID": "1088383438698061885"
+} 
